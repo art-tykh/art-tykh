@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @art-tykh
-- 👀 I’m interested in Kotlin, JS, security
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on open-source projects related to Android, Security, etc.
 - 📫 You can reach me at https://twitter.com/art_tykh
 
 <!---
